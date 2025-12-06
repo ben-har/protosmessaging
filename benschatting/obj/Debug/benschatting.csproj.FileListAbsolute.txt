@@ -1,0 +1,11 @@
+C:\Users\ccqui\source\repos\benschatting\bin\Debug\benschatting.exe.config
+C:\Users\ccqui\source\repos\benschatting\bin\Debug\benschatting.exe
+C:\Users\ccqui\source\repos\benschatting\bin\Debug\benschatting.pdb
+C:\Users\ccqui\source\repos\benschatting\obj\Debug\benschatting.csproj.AssemblyReference.cache
+C:\Users\ccqui\source\repos\benschatting\obj\Debug\benschatting.Properties.Resources.resources
+C:\Users\ccqui\source\repos\benschatting\obj\Debug\benschatting.csproj.GenerateResource.cache
+C:\Users\ccqui\source\repos\benschatting\obj\Debug\benschatting.csproj.CoreCompileInputs.cache
+C:\Users\ccqui\source\repos\benschatting\obj\Debug\benschatting.exe
+C:\Users\ccqui\source\repos\benschatting\obj\Debug\benschatting.pdb
+C:\Users\ccqui\source\repos\benschatting\obj\Debug\benschatting.exe.config
+C:\Users\ccqui\source\repos\benschatting\obj\Debug\benschatting.messaging_application.resources
