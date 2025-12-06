@@ -1,0 +1,8 @@
+C:\Users\ccqui\source\repos\learningnetworking\bin\Debug\learningnetworking.exe.config
+C:\Users\ccqui\source\repos\learningnetworking\bin\Debug\learningnetworking.exe
+C:\Users\ccqui\source\repos\learningnetworking\bin\Debug\learningnetworking.pdb
+C:\Users\ccqui\source\repos\learningnetworking\obj\Debug\learningnetworking.csproj.AssemblyReference.cache
+C:\Users\ccqui\source\repos\learningnetworking\obj\Debug\learningnetworking.csproj.CoreCompileInputs.cache
+C:\Users\ccqui\source\repos\learningnetworking\obj\Debug\learningnetworking.exe
+C:\Users\ccqui\source\repos\learningnetworking\obj\Debug\learningnetworking.pdb
+C:\Users\ccqui\source\repos\learningnetworking\obj\Debug\learningnetworking.exe.config
